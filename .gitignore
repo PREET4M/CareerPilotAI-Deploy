@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Flask instance
+instance/
+
+# Uploads
+uploads/
+
+# React
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
